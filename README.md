@@ -1,0 +1,2 @@
+# SNES-EMULATOR-FOR-PS2
+Emulador de SNES para PS2
